@@ -1,0 +1,33 @@
+C:\Users\Екатерина\мои документы\форма ателье 1\форма ателье 1\bin\Debug\форма ателье 1.exe.config
+C:\Users\Екатерина\мои документы\форма ателье 1\форма ателье 1\bin\Debug\форма ателье 1.exe
+C:\Users\Екатерина\мои документы\форма ателье 1\форма ателье 1\bin\Debug\форма ателье 1.pdb
+C:\Users\Екатерина\мои документы\форма ателье 1\форма ателье 1\obj\Debug\форма ателье 1.csproj.AssemblyReference.cache
+C:\Users\Екатерина\мои документы\форма ателье 1\форма ателье 1\obj\Debug\форма_ателье_1.Form1.resources
+C:\Users\Екатерина\мои документы\форма ателье 1\форма ателье 1\obj\Debug\форма_ателье_1.Properties.Resources.resources
+C:\Users\Екатерина\мои документы\форма ателье 1\форма ателье 1\obj\Debug\форма ателье 1.csproj.GenerateResource.cache
+C:\Users\Екатерина\мои документы\форма ателье 1\форма ателье 1\obj\Debug\форма ателье 1.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\мои документы\форма ателье 1\форма ателье 1\obj\Debug\форма ателье 1.exe
+C:\Users\Екатерина\мои документы\форма ателье 1\форма ателье 1\obj\Debug\форма ателье 1.pdb
+C:\Users\Екатерина\Documents\форма ателье 1\форма ателье 1\bin\Debug\форма ателье 1.exe.config
+C:\Users\Екатерина\Documents\форма ателье 1\форма ателье 1\bin\Debug\форма ателье 1.exe
+C:\Users\Екатерина\Documents\форма ателье 1\форма ателье 1\bin\Debug\форма ателье 1.pdb
+C:\Users\Екатерина\Documents\форма ателье 1\форма ателье 1\obj\Debug\форма ателье 1.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Documents\форма ателье 1\форма ателье 1\obj\Debug\форма_ателье_1.Form1.resources
+C:\Users\Екатерина\Documents\форма ателье 1\форма ателье 1\obj\Debug\форма_ателье_1.Properties.Resources.resources
+C:\Users\Екатерина\Documents\форма ателье 1\форма ателье 1\obj\Debug\форма ателье 1.csproj.GenerateResource.cache
+C:\Users\Екатерина\Documents\форма ателье 1\форма ателье 1\obj\Debug\форма ателье 1.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Documents\форма ателье 1\форма ателье 1\obj\Debug\форма ателье 1.exe
+C:\Users\Екатерина\Documents\форма ателье 1\форма ателье 1\obj\Debug\форма ателье 1.pdb
+C:\Users\Екатерина\Documents\форма ателье 1\форма ателье 1\obj\Debug\форма_ателье_1.Form2.resources
+C:\Users\mikli\OneDrive\Рабочий стол\форма ателье 1\форма ателье 1\bin\Debug\форма ателье 1.exe.config
+C:\Users\mikli\OneDrive\Рабочий стол\форма ателье 1\форма ателье 1\bin\Debug\форма ателье 1.exe
+C:\Users\mikli\OneDrive\Рабочий стол\форма ателье 1\форма ателье 1\bin\Debug\форма ателье 1.pdb
+C:\Users\mikli\OneDrive\Рабочий стол\форма ателье 1\форма ателье 1\obj\Debug\форма ателье 1.csproj.AssemblyReference.cache
+C:\Users\mikli\OneDrive\Рабочий стол\форма ателье 1\форма ателье 1\obj\Debug\форма_ателье_1.Form1.resources
+C:\Users\mikli\OneDrive\Рабочий стол\форма ателье 1\форма ателье 1\obj\Debug\форма_ателье_1.Form2.resources
+C:\Users\mikli\OneDrive\Рабочий стол\форма ателье 1\форма ателье 1\obj\Debug\форма_ателье_1.Properties.Resources.resources
+C:\Users\mikli\OneDrive\Рабочий стол\форма ателье 1\форма ателье 1\obj\Debug\форма ателье 1.csproj.GenerateResource.cache
+C:\Users\mikli\OneDrive\Рабочий стол\форма ателье 1\форма ателье 1\obj\Debug\форма ателье 1.csproj.CoreCompileInputs.cache
+C:\Users\mikli\OneDrive\Рабочий стол\форма ателье 1\форма ателье 1\obj\Debug\форма ателье 1.exe
+C:\Users\mikli\OneDrive\Рабочий стол\форма ателье 1\форма ателье 1\obj\Debug\форма ателье 1.pdb
+C:\Users\mikli\OneDrive\Рабочий стол\форма ателье 1\форма ателье 1\obj\Debug\форма_ателье_1.Form3.resources
